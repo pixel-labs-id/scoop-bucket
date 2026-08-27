@@ -8,7 +8,7 @@ Official Windows Scoop Bucket for **PixelBot** — Enterprise-grade live photo s
 
 ### 1. Add this Bucket
 ```powershell
-scoop bucket add pixel-labs https://github.com/moedjo/scoop-bucket
+scoop bucket add pixel-labs https://github.com/pixel-labs-id/scoop-bucket
 ```
 
 ### 2. Install PixelBot
