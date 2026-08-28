@@ -1,23 +1,23 @@
 {
-    "version": "1.12.0",
+    "version": "1.12.1",
     "description": "Professional Live Photo Streaming and Ingest Engine for Photographers",
     "homepage": "https://fotoyu.com",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pixel-labs-id/scoop-bucket/releases/download/v1.12.0/PixelBot-1.12.0-win64.exe",
-            "hash": "31f7592da60f253d6152015cc02a3fa5fa9af3aa646d8e1119274eb0428b3881"
+            "url": "https://github.com/pixel-labs-id/scoop-bucket/releases/download/v1.12.1/PixelBot-1.12.1-win64.exe",
+            "hash": "181effa31d58307ad1b4b19da3341453672781214c551273d3e1e61cc9d9f042"
         }
     },
     "bin": [
         [
-            "PixelBot-1.12.0-win64.exe",
+            "PixelBot-1.12.1-win64.exe",
             "pixelbot"
         ]
     ],
     "shortcuts": [
         [
-            "PixelBot-1.12.0-win64.exe",
+            "PixelBot-1.12.1-win64.exe",
             "PixelBot Studio"
         ]
     ],
