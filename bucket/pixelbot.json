@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/pixel-labs-id/scoop-bucket/releases/download/v1.15.0/PixelBot-1.15.0-win64.exe",
-            "hash": "b84fecc52b90b32aa19fb93d89a5e10ad9bcd3e458d249379f26de811f3957e2"
+            "hash": "3a8021a6fc44180e5d45a2c2e5c060c6b26097f7ebc011bf0e7c81ed763e6d3b"
         }
     },
     "bin": [
